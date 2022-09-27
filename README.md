@@ -28,17 +28,21 @@ I currently have two applications designed and created in the backend and fronte
 ## Experience
 
 ## Tech Lead
-**ClickBox Mobile, 2012 - 2022**
+**ClickBox Mobile, 2012 (September) - 2022 (February)**
 I worked for 10 years leading the different groups of developers who were in charge of creating internal applications and the mobile application for end customers, ClickBox PDV, which was used to sell Electronic Airtime. **Stack: Frontend with Angular 6 and Ionic 3; and Backend with CodeIgniter 3 and Laravel 6**
 
 ## Tech Lead
-**WobiSoft, 2014 - present**
+**WobiSoft, 2014 (June) - present**
 I designed and developed applications for the Instituto Veracruzano del Deporte, specifically an application for the management of meals for the athletes of the 2014 National Youth Olympics. In addition, I am still involved in the development of Tagger Smart Resident and Admin, applications for the control of intelligent access and resource control of housing complexes. **Stack: Frontend with Ionic 3; and Backend with Laravel 7**
 
 ## Project Dev Manager
-**Paralelo90, 2020 - present**
+**Paralelo90, 2020 (February) - present**
 I designed and developed the Paralelo90 multimedia content blog, which is a custom CRM to upload news and audiovisuals, as well as its administration panel. **Stack: Blog with Laravel 7, Bootstrap 5 and Livewire; Admin panel frontend with Nuxt.js and Tailwind CSS; and Backend with Laravel 7**
 
 ## Project Dev Manager
-**MCG CUSTODIOCloud, 2022 - present**
+**MCG CUSTODIOCloud, 2022 (February) - 2022 (June)**
 I’m designing and developing an application for volumetric controls to generate monthly and daily reports for the National Tax Service regarding hydrocarbons and oil products. **Stack: Frontend with Angular 12 and Bootstrap; and Backend with Laravel 8**
+
+## Full Stack Dev
+**CAPI, 2022 (June) - present**
+I've started working with the mobile app for the management of the client's accounts. I'm currently working on the refactoring of the backend code and a new version of the web app for the management of the client's accounts. **Stack: Frontend with Angular 12; and Backend with Laravel**
